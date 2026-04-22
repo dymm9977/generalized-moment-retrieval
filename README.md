@@ -2,9 +2,36 @@
 
 Official benchmark labels and evaluation toolkit for **Generalized Moment Retrieval (GMR)**.
 
+> A unified retrieval setting where each query may correspond to **no moment**, **one moment**, or **multiple moments** within a video.
+
+<div align="center">
+  <a href="https://dymm9977.github.io/generalized-moment-retrieval/"><img src="https://img.shields.io/badge/Project_Page-Visit-3b82f6?style=for-the-badge" alt="Project Page" /></a>
+  <a href="./eval/README.md"><img src="https://img.shields.io/badge/Evaluation-Toolkit-111827?style=for-the-badge" alt="Evaluation Toolkit" /></a>
+  <a href="./data/README.md"><img src="https://img.shields.io/badge/Benchmark-Labels-0f766e?style=for-the-badge" alt="Benchmark Labels" /></a>
+  <img src="https://img.shields.io/badge/Paper-Coming_Soon-9f1239?style=for-the-badge" alt="Paper Coming Soon" />
+</div>
+
+## Resources
+
+- **Project Page**: [GMR Project Page](https://dymm9977.github.io/generalized-moment-retrieval/)
+- **Repository Overview**: [README](README.md)
+- **Benchmark Labels**: [`data/`](data/)
+- **Evaluation Toolkit**: [`eval/`](eval/)
+- **Paper**: reserved for the post-anonymization release
+
 This repository is being released in stages. The current release focuses on the **Soccer-GMR benchmark labels** and the **official GMR evaluation toolkit**.
 
 ![Three retrieval scenarios in Generalized Moment Retrieval](assets/intro.png)
+
+## Resources
+
+- **Project Page**: [GMR Project Page](https://dymm9977.github.io/generalized-moment-retrieval/)
+- **Benchmark Labels**: [`data/`](data/)
+- **Evaluation Toolkit**: [`eval/`](eval/)
+- **Data Format**: [`data/README.md`](data/README.md)
+- **Evaluation Guide**: [`eval/README.md`](eval/README.md)
+- **Citation Metadata**: [`CITATION.cff`](CITATION.cff)
+- **Paper**: reserved for the post-anonymization release
 
 ## What is GMR?
 
